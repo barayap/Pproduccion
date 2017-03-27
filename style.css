@@ -11,9 +11,9 @@ line-height: 1.6;
 letter-spacing: 0.02em;
 }
 
-a{color:rgb(255,55,55);}
+a{color:rgb(150,14,150);}
 
-a:hover{color:rgb(255,55,55); text-decoration: none;}
+a:hover{color:rgb(14,140,14); text-decoration: none;}
 
 p{
   padding:0.5em 0;
@@ -21,7 +21,7 @@ p{
 }
 
 strong, b, em{
-  font-weight:400;
+  font-weight:500;
   font-style: normal;
 }
 
